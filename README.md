@@ -1,4 +1,4 @@
-🎬 **Netflix Data Analysis Project**
+# 🎬 **Netflix Data Analysis Project**
 This project dives into Netflix’s content catalog using Python to explore and visualize trends in its global library. 
 It’s a hands-on analysis that reveals interesting insights about the platform's movies, TV shows, and how its content has evolved over time.
 
