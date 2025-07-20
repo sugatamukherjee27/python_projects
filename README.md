@@ -2,7 +2,7 @@
 This project dives into Netflix’s content catalog using Python to explore and visualize trends in its global library. 
 It’s a hands-on analysis that reveals interesting insights about the platform's movies, TV shows, and how its content has evolved over time.
 
-📊 **Objective**
+📊 **Objective:**
 The main aim is to clean, analyze, and visualize the Netflix dataset to understand things like:
 1. What kind of content (Movies vs TV Shows) dominates the platform
 2. How Netflix has grown over the years
