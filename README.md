@@ -29,7 +29,7 @@ To make this possible, I used the following Python libraries:
    - Top directors across the globe
    - Countries with most contents
    - Rating breakdown
-   - Gneres/Category breakdown
+   - Genres/Category breakdown
    - Movies and TV seasons count
    - Pie chart of top countries producing Netflix content
 
