@@ -29,7 +29,8 @@ To make this possible, I used the following Python libraries:
    - Top directors across the globe
    - Countries with most contents
    - Rating breakdown
-   - TV seasons count
+   - Gneres/Category breakdown
+   - Movies and TV seasons count
    - Pie chart of top countries producing Netflix content
 
 📈 **Visual Insghts Included**
