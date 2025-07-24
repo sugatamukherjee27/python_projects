@@ -33,7 +33,7 @@ To make this possible, I used the following Python libraries:
    - Movies and TV seasons count
    - Pie chart of top countries producing Netflix content
 
-📈 **Visual Insghts Included**
+📈 **Visual Insights Included**
 - Bar charts
 - Histograms
 - Count plots
